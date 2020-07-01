@@ -1,0 +1,1 @@
+javascript:(function(){var e=document.createElement('script');e.type='text/javascript';e.src='https://cdn.jsdelivr.net/gh/Ray-Adams/TheTypingMatch-Prototype-Bot/prototype_bot.js';document.getElementsByTagName('body')[0].appendChild(e);})();
