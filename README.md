@@ -1,5 +1,5 @@
 # TheTypingMatch Prototype Bot
-A mediocre typing bot for TheTypingMatch.com
+A mediocre typing bot for TheTypingMatch.com prototype.
 
 ## Installation
 Copy and paste the code below into the URL section of a new bookmark.
