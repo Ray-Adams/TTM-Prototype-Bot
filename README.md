@@ -4,7 +4,7 @@ A mediocre typing bot for TheTypingMatch.com prototype.
 ## Installation
 Copy and paste the code below into the URL section of a new bookmark.
 ```javascript
-javascript:{let s=document.createElement('script');s.type='text/javascript';s.src='https://cdn.jsdelivr.net/gh/Ray-Adams/TTM-Prototype-Bot@latest/bot.js';document.body.appendChild(s)}
+javascript:void((()=>{let s=document.createElement('script');s.type='text/javascript';s.src='https://cdn.jsdelivr.net/gh/Ray-Adams/TTM-Prototype-Bot@latest/bot.js';document.body.appendChild(s)})())
 ```
 **NOTE**: You can view the beautified file here: [bot.js](../master/bot.js)
 
